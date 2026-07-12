@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This project has moved.** `UltimateDarkTowerSeed` is now part of the
+> [UltimateDarkTower monorepo](https://github.com/ChessMess/UltimateDarkTower) at `apps/seed`.
+> Development continues there; this repository is **archived / read-only**.
+> Full git history was preserved (tags prefixed `seed-*`).
+>
+> Live demo: https://chessmess.github.io/UltimateDarkTower/seed/
+
 # UltimateDarkTowerSeed — Seed Decoder
 
 An interactive browser tool for decoding and reverse-engineering **Return to Dark Tower**
